@@ -9,3 +9,6 @@ A JavaScript - based To-do List app with search, filtering, priority, and localS
 - Priority levels and deadlines
 - Dark mode(toggle effect)
 - local storage persistence
+
+## Live Demo
+https://kislaynath.github.io/to-do-list-web-app/
